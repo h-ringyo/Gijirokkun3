@@ -11,6 +11,7 @@
 
 ・再生位置にtagとコメントをつける
 
+![screenshot](https://user-images.githubusercontent.com/95476875/148665522-b1607ade-a690-4296-81d4-216916b7f162.jpg)
 
 
 ## 特記事項
