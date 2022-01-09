@@ -11,18 +11,21 @@
 
 ・再生位置にtagとコメントをつける
 
+
+
 ## 特記事項
 
 
-### 【使用したライブラリ】
+### 使用したライブラリ
 
-・ NAudio  https://www.nuget.org/packages/NAudio/
+#### ・ NAudio  https://www.nuget.org/packages/NAudio/
 
-・ Sound Touch library  http://www.surina.net/soundtouch/README.html
+#### ・ Sound Touch library  http://www.surina.net/soundtouch/README.html
 
-### 【勉強させていただいた記事とサンプル】
+### 勉強させていただいた記事とサンプル
 
-・ https://markheath.net/post/varispeed-naudio-soundtouch
+#### ・ https://markheath.net/post/varispeed-naudio-soundtouch
+
 
 ありがとうございました。　Thank you so much.
 
